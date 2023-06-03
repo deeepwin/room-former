@@ -6,5 +6,4 @@ s3d_floorplan_eval/montefloor_data/*
 *.zip
 *.so
 *.o
-*.cu
 *.pth
