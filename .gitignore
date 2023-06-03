@@ -8,6 +8,5 @@ s3d_floorplan_eval/montefloor_data/*
 *.o
 *.cu
 *.pth
-*.png
 *.egg-info
 *.egg
