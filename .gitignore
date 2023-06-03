@@ -1,0 +1,13 @@
+__pycache__
+.pyc
+data/stru3d/*
+s3d_floorplan_eval/montefloor_data/*
+*.ply
+*.zip
+*.so
+*.o
+*.cu
+*.pth
+*.png
+*.egg-info
+*.egg
